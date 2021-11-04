@@ -1,0 +1,3 @@
+/mnt/c/Users/braga/CLionProjects/jogo_adivinhacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/braga/CLionProjects/jogo_adivinhacao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/braga/CLionProjects/jogo_adivinhacao/cmake-build-debug/CMakeFiles/jogo_adivinhacao.dir
